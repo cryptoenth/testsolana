@@ -1,0 +1,6 @@
+{
+  "name": "Solana Test Tokenzaaaaa",
+  "symbol": "STTZ",
+  "description": "Example token from Solana Making a Token guide.",
+  "image": "https://raw.githubusercontent.com/cryptoenth/testsolana/main/sample_image.png"
+}
